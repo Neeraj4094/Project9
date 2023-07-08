@@ -1,0 +1,52 @@
+.contact{
+    padding: 0.3rem 0.3rem;
+    display: flex;
+    height: 80vh;
+    margin-top: 4rem;
+}
+
+.awesome :nth-child(1){
+    color: black;
+}
+.c-right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    flex: 1;
+}
+.c-right .button{
+    background-color: orange;
+    width: 10rem;
+}
+.c-right .button:hover{
+    background-color:white;
+    width: 10rem;
+}
+.c-right>form{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+}
+
+.c-right .user{
+    width: 25rem;
+    height: 3rem;
+    padding: 0.3rem;
+    outline: none;
+    border: 2px solid orange;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+textarea{
+    height: 8rem!important;
+}
+
+.s-blur1{
+    top: 1rem;
+    left: 8rem;
+    box-shadow: 0px 20px 24px 3px rgba(251, 161, 40, 0.42);
+}

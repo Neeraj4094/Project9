@@ -1,0 +1,55 @@
+.Cards{
+    width: 18rem;
+    height: 21rem;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    text-align: center;
+    background: rgba(255,255,255,0.);
+    border: 7px solid orange;
+    right: 12%;
+    top: 18%;
+    box-shadow: 0px 20px 24px 3px rgba(251, 82, 40, 0.42);
+    border-radius: 20px;
+    padding: 0px 26px 2rem 26px;
+}
+.Cards>img{
+    border: 3px solid rgb(173, 173, 173);
+    transform: scale(0.6);
+    margin-bottom: -2rem;
+}
+.Cards>span:nth-child(2){
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    font-family: bold;
+}
+.Cards>span:nth-child(3){
+    color: rgb(255, 255, 255);
+    
+    
+}
+
+.i-button{
+    background: white;
+    box-shadow: 0px 20px 24px 3px rgba(206, 206, 206, 0.42);
+    border-radius: 16px;
+    border: none;
+    padding: 10px;
+    font-size: 18px;
+    color: #fd5252;
+}
+
+
+.card2{
+        position: absolute;
+        right: 34%;
+        top: 50%;
+}
+
+.card3{
+    position: absolute;
+    right: 12%;
+    top: 70%;
+}

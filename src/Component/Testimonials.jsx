@@ -30,7 +30,7 @@ const Testimonials = () => {
       <div className="wrap">
       <div className="t-heading">
         <span>What our </span>
-        <span>Customer tells</span>
+        <span>Customer tells </span>
         <span>about us...</span> 
       </div>
       <Swiper 

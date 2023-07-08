@@ -13,9 +13,9 @@ function Intro() {
       
       <div className="i-left">
         <div className="i-name">
-          <span>Hey! This Is</span>
-          <span>Webster</span>
-          <span>Best Developer for creating Website and Web Pages</span>
+          <span>Hey! Welcome to this </span>
+          <span>Hotel Booking Website</span>
+          <span>Famous for best Designs of rooms and stylish rooms</span>
           {/* <span>Frontend Developer with high level of experience and development, producing the quality work</span> */}
         </div>
         <button className='button i-button'>

@@ -29,9 +29,9 @@ const Testimonials = () => {
     <div className="t-wrapper">
       <div className="wrap">
       <div className="t-heading">
-        <span>Clients always get</span>
-        <span>Expertional Work</span>
-        <span>from me...</span> 
+        <span>What our </span>
+        <span>Customer tells</span>
+        <span>about us...</span> 
       </div>
       <Swiper 
       modules={[Pagination]}
